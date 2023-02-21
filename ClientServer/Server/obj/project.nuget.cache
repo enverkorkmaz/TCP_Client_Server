@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5iLyk6xQB+HDNGg+KJCbJkvMngyI8svzDCiqcOIEF2ubkt2Y6QBHJJ9Xu1ojBdyzHn6UuhSQGDmJUFbTACajpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enver\\Desktop\\case study\\Client\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enver\\.nuget\\packages\\supersimpletcp\\3.0.7\\supersimpletcp.3.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
